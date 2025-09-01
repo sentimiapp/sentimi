@@ -1,4 +1,4 @@
-test # Sentimi — Free Starter (Next.js + Supabase)
+# Sentimi — Free Starter (Next.js + Supabase)
 
 This is a minimal starter to get Sentimi online for free.
 
@@ -27,3 +27,4 @@ Visit http://localhost:3000
 - Import this repo into Vercel from GitHub
 - Add the two env vars above on the Vercel project → Deploy
 - Open `/feed` to record + upload voice notes (saved in `voice` bucket)
+test
